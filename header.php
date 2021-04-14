@@ -102,9 +102,9 @@
             <div class="lower-topbar">
                 <div class="container">
                     <div class="row">
-                        <div class="col col-sm-3">
+                        <div class="col col-sm-12 text-center">
                             <div class="site-logo">
-                                <a href="index-2.html"><img src="assets/images/logo-2.png" alt></a>
+                                <a href="index.php"><img src="img/logo.png" alt></a> 
                             </div>
                         </div>
 

@@ -43,7 +43,7 @@ include("header.php");
                                     </div>
                                 </div>
                             </div>
-                            <div class="product-info">
+                           <!--  <div class="product-info">
                                 <h3><a href="#">Splash Toy</a></h3>
                                 <div class="rating">
                                     <i class="fa fa-star"></i>
@@ -53,7 +53,7 @@ include("header.php");
                                     <i class="fa fa-star"></i>
                                 </div>
                                 <span class="price">$15.00</span>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
 

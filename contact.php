@@ -48,9 +48,8 @@ include("header.php");
                         </div>
                     </div>
                     <div class="col col-md-offset-1 col-md-8">
-                        <div class="location-map" id="map">
-                            
-                        </div>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.1559546699627!2d79.98368671477328!3d6.990904894949843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2f89f4e0beb11%3A0x96d1b84efa78838!2sTemple%20Road!5e0!3m2!1sen!2slk!4v1618042912021!5m2!1sen!2slk" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        
                     </div>
                 </div> <!-- end row -->
                 <div class="row">

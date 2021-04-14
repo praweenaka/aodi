@@ -11,12 +11,12 @@ include("header.php");
             <div class="container">
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 slide-caption">
-                        <h2>We provide the best <span>Industrial</span> Services worldwide</h2>
-                        <p>An unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <div class="btns">
+                        <h2>Welcome to  <span>Aodi International Lanka Pvt Ltd</span></h2>
+                        <p>To Provide Customer Focus Services Chosen from Reliable Sources Available in the World</p>
+                        <!-- <div class="btns">
                             <a href="#" class="theme-btn">About us</a>
                             <a href="#" class="theme-btn-s2">Explore</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -26,12 +26,12 @@ include("header.php");
             <div class="container">
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 slide-caption">
-                        <h2>We provide the best <span>Industrial</span> Services worldwide</h2>
-                        <p>An unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <div class="btns">
+                        <h2>Welcome to  <span>Aodi International Lanka Pvt Ltd</span></h2>
+                        <p>To Provide Customer Focus Services Chosen from Reliable Sources Available in the World</p>
+                       <!--  <div class="btns">
                             <a href="#" class="theme-btn">About us</a>
                             <a href="#" class="theme-btn-s2">Explore</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -42,12 +42,12 @@ include("header.php");
             <div class="container">
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 slide-caption">
-                        <h2>We provide the best <span>Industrial</span> Services worldwide</h2>
-                        <p>An unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <div class="btns">
+                        <h2>Welcome to  <span>Aodi International Lanka Pvt Ltd</span></h2>
+                        <p>To Provide Customer Focus Services Chosen from Reliable Sources Available in the World</p>
+                        <!-- <div class="btns">
                             <a href="#" class="theme-btn">About us</a>
                             <a href="#" class="theme-btn-s2">Explore</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -58,12 +58,12 @@ include("header.php");
             <div class="container">
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 slide-caption">
-                        <h2>We provide the best <span>Industrial</span> Services worldwide</h2>
-                        <p>An unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <div class="btns">
+                        <h2>Welcome to  <span>Aodi International Lanka Pvt Ltd</span></h2>
+                        <p>To Provide Customer Focus Services Chosen from Reliable Sources Available in the World</p>
+                        <!-- <div class="btns">
                             <a href="#" class="theme-btn">About us</a>
                             <a href="#" class="theme-btn-s2">Explore</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@ include("header.php");
 <section class="section-padding">
     <div class="container">
         <div class="row">
-            <div class="col col-md-5">
+           <!--  <div class="col col-md-5">
                 <div class="section-title-s3">
                     <h2>Get full range of premium Industrial services for your business</h2>
                 </div>                        
@@ -87,8 +87,8 @@ include("header.php");
                     <a href="#" class="theme-btn read-more">Read More</a>
                     <a href="#" class="theme-btn-s2 read-more">Company history</a>
                 </div>
-            </div>
-            <div class="col col-md-7">
+            </div> -->
+            <div class="col col-md-12">
                 <div class="offer-grids">
                     <div class="grid">
                         <div class="details">
@@ -153,7 +153,7 @@ include("header.php");
 
 
 <!-- start services -->
-<section class="section-padding">
+<!-- <section class="section-padding">
     <div class="container">
         <div class="row">
             <div class="col col-md-8">
@@ -173,7 +173,7 @@ include("header.php");
             <div class="col col-xs-12">
                 <div class="row service-s2-top">
                     <div class="col col-xs-12 service-s2-tab"> 
-                        <!-- Tab panes -->
+                       
                         <div class="tab-content">
                             <div class="tab-pane in active" id="tab-1">
                                 <div class="img-holder">
@@ -186,8 +186,8 @@ include("header.php");
                                 </div>
                             </div> 
                         </div>
-                    </div> <!-- end service-s2-tab -->
-                </div> <!-- end service-s2-top -->
+                    </div>  
+                </div>  
 
                 <div class="row service-s2-box">
                     <div class="col col-xs-12">
@@ -215,8 +215,8 @@ include("header.php");
                 </div>
             </div>
         </div>
-    </div> <!-- end container -->
-</section>
+    </div>  
+</section> -->
 <!-- end services -->
 
 
@@ -354,7 +354,7 @@ include("header.php");
 
 
 <!-- start our-team -->
-<section class="our-team section-padding">
+<!-- <section class="our-team section-padding">
     <div class="container">
         <div class="row">
             <div class="col col-md-8 col-md-offset-2">
@@ -363,7 +363,7 @@ include("header.php");
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
                 </div>
             </div>
-        </div> <!-- end row -->
+        </div>  
 
         <div class="row">
             <div class="col col-lg-10 col-lg-offset-1">
@@ -468,8 +468,8 @@ include("header.php");
             </div>
         </div>
 
-    </div> <!-- end container -->
-</section>
+    </div>  
+</section> 
 <!-- end our-team -->
 
 
