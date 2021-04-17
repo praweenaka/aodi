@@ -217,7 +217,7 @@ include("header.php");
                         </div>
                     </div>
 
-                    <div class="col col-md-4 col-xs-6">
+                   <!--  <div class="col col-md-4 col-xs-6">
                         <div class="grid">
                             <div class="img-holder-info-list">
                                 <div class="img-holder">
@@ -247,7 +247,7 @@ include("header.php");
                                 <span class="price">$15.00</span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col col-md-4 col-xs-6">
                         <div class="grid">
