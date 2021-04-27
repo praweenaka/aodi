@@ -268,7 +268,7 @@ include("header.php");
                                 </div>
                             </div>
                             <div class="product-info">
-                                <h3><a href="#">Splash Toy1</a></h3>
+                                <h3><a href="#">Splash Toy1111</a></h3>
                                 <div class="rating">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
