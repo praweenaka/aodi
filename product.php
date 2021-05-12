@@ -44,7 +44,7 @@ include("header.php");
                                 <!--</div>-->
                             </div>
                             <div class="product-info">
-                                <h3><a href="#">New Gloves</a></h3>
+                                <h3><a href="#">New Gloves All</a></h3>
                                 <!--<div class="rating">-->
                                 <!--    <i class="fa fa-star"></i>-->
                                 <!--    <i class="fa fa-star"></i>-->
