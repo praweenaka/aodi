@@ -7,7 +7,7 @@
                     <div class="widget about-widget">
                         <div class="footer-logo"><img src="assets/images/logo.png" alt></div>
                         <ul class="contact-info">
-                            <li><i class="fa fa-home"></i> 263,Temple Road, Biyagama.</li>
+                            <li><i class="fa fa-home"></i> 263,Temple Road, Biyagama,Srilanka</li>
                             <li><i class="fa fa-phone"></i> +94 777008982 <br> +94 771343595</li>
                             <li><i class="fa fa-home"></i> Working Hours: <br>Mon-Fri (9 am - 8 pm)</li>
                         </ul>
