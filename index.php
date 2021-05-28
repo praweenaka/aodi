@@ -12,7 +12,7 @@ include("header.php");
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 slide-caption">
                         <h2>Welcome to  <span>Aodi International Lanka Pvt Ltd</span></h2>
-                        <p>To Provide Customer Focus Services Chosen from Reliable Sources Available in the World</p>
+                        <p>To Provide Customer Focus Services Chosen from Reliable Sources Available in the World.</p>
                         <!-- <div class="btns">
                             <a href="#" class="theme-btn">About us</a>
                             <a href="#" class="theme-btn-s2">Explore</a>
